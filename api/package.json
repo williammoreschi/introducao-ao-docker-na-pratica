@@ -1,0 +1,22 @@
+{
+  "name": "docker-na-pratica",
+  "version": "1.0.0",
+  "description": "Docker na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "Docker"
+  ],
+  "author": "William Moreschi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
