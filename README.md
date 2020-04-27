@@ -47,7 +47,7 @@ docker run -d -v $(pwd)/api:/home/node/app -p 9001:9001 --link mysql-container -
 docker run -d -v "$(pwd)/website":/var/www/html -p 8888:80 --link node-container --rm --name php-container php-image
 ```
 
-Para ter acesso aos dados via api acesse localhost:9001
+Para ter acesso aos dados via api acesse localhost:9001/users
 
 Para ter acesso aos dados via website acesse localhost:8888
 
