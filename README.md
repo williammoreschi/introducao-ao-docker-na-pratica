@@ -31,7 +31,7 @@ Na pasta raíz do projeto, execute um de cada vez.
 docker run -d -v $(pwd)/db/data:/var/lib/mysql --rm --name mysql-container mysql-image
 ```
 
-Vamos fazer o restore o restore do banco:
+Vamos fazer o restore do banco:
 
 ```sh
 docker exec -i mysql-container mysql -uroot -pdocker < db/script.sql
