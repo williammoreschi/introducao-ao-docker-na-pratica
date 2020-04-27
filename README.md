@@ -1,4 +1,4 @@
-# Introdução ao Docker na Pratica
+# Introdução ao Docker na Prática
 
 O Projeto gerado com base no tutorial que eu escrevi, esse tutorial é baseado na videoaula do canal Programador a Bordo.
 
