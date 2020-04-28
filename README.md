@@ -58,4 +58,4 @@ Para ter acesso aos dados via api acesse localhost:9001/users
 Para ter acesso aos dados via website acesse localhost:8888
 
 
-Para entender melhor sobre cada comando utilizado, assita a videoaula e depois siga o tutorial ;)
+Para entender melhor sobre cada comando utilizado, assista a videoaula e depois siga o tutorial ;)
